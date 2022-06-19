@@ -108,7 +108,7 @@ npm start
 <div>
     <table>
         <tr>
-            <td align="center"><a href="https://github.com/Mdshahbazalam6/"><img src="https://ca.slack-edge.com/T02KMNEUZ43-U03BJHAGD16-5da7006992a8-512" width="135px;" height="135px;" alt=""/><br /><b>Biswaranjan</b></a>
+            <td align="center"><a href="https://github.com/Mdshahbazalam6/"><img src="https://ca.slack-edge.com/T02KMNEUZ43-U03BJHAGD16-5da7006992a8-512" width="135px;" height="135px;" alt=""/><br /><b>Md Shahbaz Alam</b></a>
             </td> 
         </tr>
     </table>

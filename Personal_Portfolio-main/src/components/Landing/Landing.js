@@ -150,7 +150,7 @@ function Landing() {
                         <div className='lcr-buttonContainer'>
                             {headerData.resumePdf && (
                                 <a
-                                    href={headerData.resumePdf}
+                                    href='https://drive.google.com/drive/folders/1fhORzlb8wjhSFMkrKveL_-F0PAhoylfK'
                                     download='Md_Shahbaz_Alam_Resume'
                                     target='_blank'
                                     rel='noreferrer'

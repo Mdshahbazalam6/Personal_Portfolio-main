@@ -18,17 +18,17 @@ export const projectsData = [{
         projectDesc: "Zostel is one of the largest and oldest networks of hostels and homes in India",
         tags: ['HTML', 'CSS','JS','JSON Server'],
         code: 'https://github.com/SanjanaSinghh/Zostel-Clone',
-        demo: 'https://swiggy-foodlovers.netlify.app/',
-        image: one
+        demo: 'https://zostel-hostel-booking.netlify.app/',
+        image: 'https://user-images.githubusercontent.com/89686839/170731076-542d9fd1-1a23-423d-bde0-c672e0187246.png'
     },
     {
         id: 3,
-        projectName: 'Amazon-Prime Video (Clone)',
-        projectDesc: "Amazon Prime Video is an video on-demand over-the-top streaming services. A Collaborative project built by a team of 3 executed in 7 days.",
-        tags: ['React', 'Redux', 'Material UI','Firebase'],
-        code: 'https://github.com/icyflame21/Amazon-Prime-Clone',
-        demo: 'https://amazonprime-clone.netlify.app/',
-        image: three
+        projectName: 'Trivago (Clone)',
+        projectDesc: "trivago is a European wide travel community that meets the growing demand for independent travel information. On top it offers an extensive hotel meta search to travellers",
+        tags: ['React', 'Redux', 'Material UI'],
+        code: 'https://github.com/SwapnilMeshram19/trivago-clone',
+        demo: '',
+        image: 'https://i.ibb.co/NpdpHrf/trivago-2.png'
     },
     {
         id: 4,
